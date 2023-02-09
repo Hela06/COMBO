@@ -9,7 +9,7 @@ Salvatore Micciche, editors, Complex Networks and Their Applications XI, pages
 
 COMBO is a novel pipeline for multi-layer network inference and analysis to identify relevant pathways in the studied case. Taking advantage of the Boolean implication method, both transcriptomic and epigenomic data were analyzed through StepMiner[[1],[1]] and BooleanNet systems [[2],[2]]. The goal was to identify the implication between the different transcripts and methylated CpGs. The obtained results were used to generate heterogeneous multi-layer graphs. Subsequently, Neo4J was exploited to query the multi-layer network with properly defined Cypher queries.
 
-#USAGE
+# USAGE
 
 ```bash
 bash COMBO.bash -h
