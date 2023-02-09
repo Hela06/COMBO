@@ -1,0 +1,4 @@
+"upIWS1 - Normal" "dowIWS1 - Normal"
+"upIWS1" 1 0
+"dowIWS1" 0 1
+"Normal" -1 -1
