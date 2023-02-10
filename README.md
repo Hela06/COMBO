@@ -7,7 +7,7 @@ In Hocine Cheri, Rosario Nunzio Mantegna, Luis M. Rocha, Chantal Cheri, and
 Salvatore Micciche, editors, Complex Networks and Their Applications XI, pages
 251{264, Cham, 2023. Springer International Publishing. ISBN 978-3-031-21127-0.](https://doi.org/10.1007/978-3-031-21127-0_21)
 
-COMBO is a novel pipeline for multi-layer network inference and analysis to identify relevant pathways in the studied case. Taking advantage of the Boolean implication method, both transcriptomic and epigenomic data were analyzed through StepMiner[[1],[1]] and BooleanNet systems [[2],[2]]. The goal was to identify the implication between the different transcripts and methylated CpGs. The obtained results were used to generate heterogeneous multi-layer graphs. Subsequently, Neo4J was exploited to query the multi-layer network with properly defined Cypher queries.
+COMBO is a novel pipeline for multi-layer network inference and analysis to identify relevant pathways in the studied case. Taking advantage of the Boolean implication method, both transcriptomic and epigenomic data were analyzed through StepMiner[[1][1]] and BooleanNet systems [[2][2]]. The goal was to identify the implication between the different transcripts and methylated CpGs. The obtained results were used to generate heterogeneous multi-layer graphs. Subsequently, Neo4J was exploited to query the multi-layer network with properly defined Cypher queries.
 
 # USAGE
 
