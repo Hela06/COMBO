@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#RICORDA DI ATTIVARE L'AMBIENTE CONDA 
-# conda activate /home/ilaria/anaconda2/envs/MultiLayer
-#RICORDA CHE STEPMINER FUNZIONA CON jdk15
 
 exit_abnormal() {
   echo "$1"
